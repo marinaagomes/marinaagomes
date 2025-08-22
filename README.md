@@ -1,14 +1,16 @@
 # 🔮 Marina Gomes
 
-**`Analista de QA | Testes de Software | Automação & Garantia da Qualidade`**
+**`QA Analyst | Software Testing | Automation & Quality Assurance`**
 
 Prazer! Sou a Marina.👋 Com foco em testes de software, automação e garantia de qualidade. Aqui compartilho projetos práticos de programação básica em JavaScript, testes manuais, scripts de automação e estudos de ferramentas. Este perfil reflete meu aprendizado contínuo e meu interesse em aprimorar processos de qualidade em softwares.
+
+Hi! I’m Marina. 👋 I focus on software testing, automation, and quality assurance. Here, I share practical projects in basic JavaScript programming, manual testing, automation scripts, and tool explorations. This profile reflects my ongoing learning and my passion for improving software quality processes.
 
 
 ---
 <br/>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,22 +30,22 @@ Prazer! Sou a Marina.👋 Com foco em testes de software, automação e garantia
 
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marinaagomes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    style="padding-right: 10;" 
+    src="https://github-readme-stats.vercel.app/api?username=marinaagomes&show_icons=true&theme=dracula&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaagomes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaagomes&theme=dracula&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
