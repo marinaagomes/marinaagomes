@@ -1,10 +1,9 @@
 # 🔮 Marina Gomes
 
-**`QA Analyst | Software Testing | Automation & Quality Assurance`**
+**`Quality Assurance Engineer focused on software testing, quality processes, and test automation.`**
 
-Prazer! Sou a Marina.👋 Com foco em testes de software, automação e garantia de qualidade. Aqui compartilho projetos práticos de programação básica em JavaScript, testes manuais, scripts de automação e estudos de ferramentas. Este perfil reflete meu aprendizado contínuo e meu interesse em aprimorar processos de qualidade em softwares.
 
-Hi! I’m Marina. 👋 I focus on software testing, automation, and quality assurance. Here, I share practical projects in basic JavaScript programming, manual testing, automation scripts, and tool explorations. This profile reflects my ongoing learning and my passion for improving software quality processes.
+Hi! I’m Marina. 👋 This GitHub contains practical QA projects involving manual testing, Cypress automation, test scenarios, bug reporting practices, and modern testing workflows. The repositories reflect hands-on experience with Agile methodologies, software quality practices, and continuous improvement through real-world testing exercises and projects.
 
 
 ---
