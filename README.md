@@ -6,6 +6,7 @@
 Hi! I’m Marina. 👋 This GitHub contains practical QA projects involving manual testing, Cypress automation, test scenarios, bug reporting practices, and modern testing workflows. The repositories reflect hands-on experience with Agile methodologies, software quality practices, and continuous improvement through real-world testing exercises and projects.
 
 
+
 ---
 <br/>
 
